@@ -1,4 +1,4 @@
-# 民主测评管理系统
+# 民主测评管理与服务平台
 
 ## 一、需求分析
 100以上的人要为其中10个以上的人进行民主测评和统计，并且大家都需要在现场一直要等待着出统计结果，同时要把测评的纸质版保留下来作为资料，之前用电子表格来统计，录入数据慢不说，录入之后还需要调整公式才能统计出等级和最终分数，而且使用起来不直观，人数越多表格越大，计算起来越来越慢，经常会出现录入出错、统计出错。因此需要这样一个民主测评统计软件来帮你达成快速录入、统计、打印和保存测评表的功能。
@@ -24,7 +24,36 @@
 后端PHP laravel 6.0; 
 前端vue.js 2.0
 > 在线Demo:
-
 > http://eval.wmhello.cn/admin/ 
-
 > 用户名/密码(admin/123456)
+
+> ## 五、问题咨询与讨论
+
+> 微信1(xpyzwm)
+> 微信2(common_program)
+
+## 六、截图
+
+![图1.测评数据录入页面](https://s2.loli.net/2024/12/21/PEudUqQzG8aiXKw.png)
+<center>图1.测评数据录入页面</center>
+
+![图2.快速录入相同的数据](https://s2.loli.net/2024/12/21/4mb7PoZjUCeYWTf.png)
+<center>图2.快速录入相同的数据</center>
+
+![图3.大批量录入相同的数据](https://s2.loli.net/2024/12/21/GVRXobna1UqBEul.png)
+<center>图3.大批量录入相同的数据</center>
+
+![图4.右键录入测评表](https://s2.loli.net/2024/12/21/18OmxNzDc5GWHf2.png)
+<center>图4.右键录入测评表</center>
+
+![图5.打印本页测评表](https://s2.loli.net/2024/12/21/jDIPZiY1lHoyLqa.png)
+<center>图5.打印本页测评表</center>
+
+![6.历史测评表数据回显](https://s2.loli.net/2024/12/21/bvUXxJLa1g3ODlt.png)
+<center>6.历史测评表数据回显</center>
+
+![7.统计等级并可以保存下载与打印](https://s2.loli.net/2024/12/21/a3rHimsEzg8LIYq.png)
+<center>7.统计等级并可以保存下载与打印</center>
+
+![8.统计得分并保存下载与打印](https://s2.loli.net/2024/12/21/yChLAWiNTOunfFe.png)
+<center>8.统计得分并保存下载与打印</center>
