@@ -21,10 +21,9 @@
 软件方案，30分钟出统计结果（录入后直接出统计结果，多组统计人员可以同时对某组测评进行录入，因为录入的结果都存入数据表中，所以容易统计分析）。
 
 ## 四、方案
-后端PHP laravel 6.0; 
-前端vue.js 2.0
-> 在线Demo:
-> http://eval.wmhello.cn/admin/ 
+后端PHP Larvel 框架  
+前端vue.js 2.0  
+> [在线Demo](https://eval.wmhello.cn/admin/)https://eval.wmhello.cn/admin/  
 > 用户名/密码(admin/123456)
 
 > ## 五、问题咨询与讨论
